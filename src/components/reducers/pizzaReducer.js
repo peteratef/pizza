@@ -12,7 +12,7 @@ import {
   EDIT_PIZZA,
   DELETE_PIZZA,
   ON_INIT_FUNCTION,
-} from "../actions/action-types/cart-actions";
+} from "../actions/action-types/pizza-actions";
 
 const initState = {
   items: [

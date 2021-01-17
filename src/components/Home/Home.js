@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
 
-import * as actions from "../actions/cartActions";
+import * as actions from "../actions/pizzaActions";
 import Pagination from "../Pagination/Pagination";
 import MenuItem from "./MenuItem";
 import "./Home.css";

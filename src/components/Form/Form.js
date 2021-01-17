@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { connect } from "react-redux";
 
 import "./Form.css";
-import * as Actions from "../actions/cartActions";
+import * as Actions from "../actions/pizzaActions";
 
 class Form extends Component {
   constructor() {

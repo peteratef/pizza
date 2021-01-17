@@ -4,7 +4,7 @@ import {
   EDIT_PIZZA,
   CHANGE_FILTER,
   ON_INIT_FUNCTION,
-} from "./action-types/cart-actions";
+} from "./action-types/pizza-actions";
 
 //add cart action
 export const initFunction = () => {
