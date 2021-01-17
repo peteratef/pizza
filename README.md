@@ -1,4 +1,4 @@
-# Basic e-commerce Pizza's Menu application built with React & Redux
+# Pizza's Menu application built with React & Redux
 
 This simple application prototype shows how we can use React and Redux to build a friendly user experience with instant visual updates.
 
